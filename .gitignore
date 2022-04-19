@@ -32,12 +32,6 @@ hs_err_pid*
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
 ### NetBeans ###
 /nbproject/private/
 /build/
@@ -45,6 +39,13 @@ hs_err_pid*
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+target/
 
 ### Mac ###
 .DS_Store
