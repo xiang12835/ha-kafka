@@ -1,2 +1,2 @@
-# ha-kafka
+# hkafka
 High Availability Kafka, Spring Boot
